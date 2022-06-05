@@ -1,5 +1,5 @@
-const Discord = require('discord.js');
-const bot = new Discord.Client();
+const Discord = require('discord.js')
+const bot = new Discord.Client()
 const TOKEN = "OTc5NDQ########################################";
 const prefix = "!";
 
