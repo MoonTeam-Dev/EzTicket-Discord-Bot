@@ -40,7 +40,7 @@ bot.on("message", async (message) => {
             console.log(messageContenttt)
         }
     }
-});
+})
 
 bot.on("message", async (message) => {
     const targetguild = bot.guilds.cache.get('976580118191411200')
